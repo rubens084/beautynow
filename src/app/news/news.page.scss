@@ -1,0 +1,22 @@
+// BOTONES BEUTIERS
+
+.vc_b {
+    border-radius: 2em;
+}
+.vc {
+    font-size: 16px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.vc_btn3{
+    color: #ffffff;
+    border: none;
+    background-color: #f9ca24;
+    background-image: -webkit-linear-gradient(left, #f9ca24 0%, #be2edd 50%,#f9ca24 100%);
+    background-image: linear-gradient(to right, #f9ca24 0%, #be2edd 50%,#f9ca24 100%);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    background-size: 200% 100%;
+}
